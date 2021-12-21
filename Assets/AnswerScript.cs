@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class AnswerScript : MonoBehaviour
 {
+
+    /*
+      Initialisation des variables 
+    */
     public bool isCorrect = false;
     public QuizManager quizManager;
     public void Answer()
